@@ -1,12 +1,7 @@
- <!DOCTYPE html>
-<html>
-<head>
-<title>Hello World!</title>
-</head>
-<body>
+# hello-world
+Hello World repository fit Git tutorial
+This is an examoke reository for thz Git tutorial on https://www.w3schools.com
 
-<h1>Hello world!</h1>
-<p>This is the first file in my new Git Repo.</p>
+This repository is built step by step in the tutorial.
 
-</body>
-</html> 
+It now includes steps for GitHub
